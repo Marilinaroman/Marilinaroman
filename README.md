@@ -1,10 +1,10 @@
 
 ### 👋 Hi there, my name is Marilina Roman
 
-✨the only way to do great work is to love what you do. If you haven't found it yet, keep looking...✨
+✨the only way to do great work is to love what you do. If you haven't found it yet, keep looking...:raised_hands:
 
 #### About me:
-I has a degree in Business Administration from the UNLaM.
+I've a degree in Business Administration from the UNLaM.
 </br>
 Currently studying a Fullstack Web Developer.
 </br>
