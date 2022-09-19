@@ -6,7 +6,7 @@
 #### About me:
 I've a degree in Business Administration from the UNLaM.
 </br>
-Currently studying a Fullstack Web Developer.
+Currently studying Fullstack Web Developer.
 </br>
 
 #### Skills:
